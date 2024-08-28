@@ -1,5 +1,5 @@
 .page-body {
-    background-image: url('/images/background.jpg'); /* Замените на URL вашего изображения */
+    background-image: url('/https://github.com/algmironov/TicTacToe_HTML/blob/6b6c76cb03cf886a58236cccdd82de040f2562ce/images/background.jpg'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -51,7 +51,7 @@ h1:focus {
     justify-content: center;
     align-items: center;
     height: 150vh;
-    /*background-color: rgba(255, 255, 255, 0.8);*/ /* Полупрозрачный белый фон */
+    /*background-color: rgba(255, 255, 255, 0.8);*/ /* ГЏГ®Г«ГіГЇГ°Г®Г§Г°Г Г·Г­Г»Г© ГЎГҐГ«Г»Г© ГґГ®Г­ */
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
