@@ -93,7 +93,7 @@ h1:focus {
         opacity: 0.7;
     }
 .label {
-    color: #ffffff;
+    color: darkcyan;
     font-size: 55px;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
     margin-bottom: 20px;
@@ -104,7 +104,7 @@ h1 {
 }
 
 p {
-    color: #ffffff;
+    color: darkcyan;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
     text-align: center;
     font-size: 18px;
