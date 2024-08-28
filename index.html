@@ -1,31 +1,25 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Крестики-Нолики</title>
-    <link rel="stylesheet" href="styles.css">
+    <meta charset="utf-8" />
+    <title>TicTacToeBlazor</title>
+    <base href="/" />
+    <link href="css/app.css" rel="stylesheet" />
+    
+    <!-- If you add any scoped CSS files, uncomment the following to load them
+    <link href="TicTacToeBlazor.styles.css" rel="stylesheet" /> -->
 </head>
+
 <body>
-    <div class="game-container">
-        <div class="game-status">
-            <h2 id="statusMessage"></h2>
-        </div>
-        <div class="game-board">
-            <div class="cell" data-cell></div>
-            <div class="cell" data-cell></div>
-            <div class="cell" data-cell></div>
-            <div class="cell" data-cell></div>
-            <div class="cell" data-cell></div>
-            <div class="cell" data-cell></div>
-            <div class="cell" data-cell></div>
-            <div class="cell" data-cell></div>
-            <div class="cell" data-cell></div>
-        </div>
-        <div class="game-restart">
-            <button id="restartButton">Начать заново</button>
-        </div>
+    <div id="app">Loading...</div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
     </div>
-    <script src="script.js"></script>
+    <script src="_framework/blazor.webassembly.js"></script>
 </body>
+
 </html>
