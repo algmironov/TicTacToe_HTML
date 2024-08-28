@@ -1,5 +1,5 @@
 .page-body {
-    background-image: url('/images/background.jpg'); /* Замените на URL вашего изображения */
+    background-image: url('/images/background.jpg'); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -51,7 +51,7 @@ h1:focus {
     justify-content: center;
     align-items: center;
     height: 150vh;
-    /*background-color: rgba(255, 255, 255, 0.8);*/ /* Полупрозрачный белый фон */
+    /*background-color: rgba(255, 255, 255, 0.8);*/ /* ГЏГ®Г«ГіГЇГ°Г®Г§Г°Г Г·Г­Г»Г© ГЎГҐГ«Г»Г© ГґГ®Г­ */
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
@@ -93,7 +93,7 @@ h1:focus {
         opacity: 0.7;
     }
 .label {
-    color: #ffffff;
+    color: #33FF3;
     font-size: 55px;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
     margin-bottom: 20px;
@@ -104,7 +104,7 @@ h1 {
 }
 
 p {
-    color: #ffffff;
+    color: #33FF3;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
     text-align: center;
     font-size: 18px;
